@@ -1,108 +1,106 @@
-⚡ NH Developer
+"NH Developer Banner" (https://capsule-render.vercel.app/api?type=waving&color=0:050816,50:172554,100:7C3AED&height=200&section=header&text=NH%20DEVELOPER&fontSize=48&fontColor=FFFFFF&animation=fadeIn&fontAlignY=38&desc=Code%20Your%20Imagination%20%7C%20Build%20The%20Impossible&descSize=15&descAlignY=58)
 
-<div align="center"><img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:050816,50:172554,100:7C3AED&height=200&section=header&text=NH%20DEVELOPER&fontSize=48&fontColor=FFFFFF&animation=fadeIn&fontAlignY=38&desc=Code%20Your%20Imagination.%20Build%20The%20Impossible.&descSize=16&descAlignY=58" /><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=19&duration=3000&pause=900&color=38BDF8&center=true&vCenter=true&width=700&lines=Android+App+Developer+%F0%9F%93%B1;Web+Developer+%F0%9F%8C%90;Firebase+Project+Builder+%F0%9F%94%A5;Creative+Thinker+%E2%9A%A1;Turning+Ideas+Into+Reality+%F0%9F%9A%80" alt="Typing animation" /><br/>Building Ideas. Creating Innovation. Pushing Boundaries.
+<div align="center">⚡ NH DEVELOPER
 
-""GitHub" (https://img.shields.io/badge/GitHub-NH007RED-181717?style=for-the-badge&logo=github)" (https://github.com/NH007RED)
-""Repositories" (https://img.shields.io/badge/Explore-My_Projects-0EA5E9?style=for-the-badge&logo=github)" (https://github.com/NH007RED?tab=repositories)
+"@NH007RED"
+
+"Typing Animation" (https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=18&duration=3000&pause=900&color=38BDF8&center=true&vCenter=true&width=600&lines=Android+App+Developer;Web+Developer;Firebase+Project+Builder;Creative+Thinker;Turning+Ideas+Into+Reality)
+
+""GitHub" (https://img.shields.io/badge/GitHub-NH007RED-111827?style=for-the-badge&logo=github&logoColor=white)" (https://github.com/NH007RED)
+""Repositories" (https://img.shields.io/badge/Projects-Explore-7C3AED?style=for-the-badge&logo=github)" (https://github.com/NH007RED?tab=repositories)
+
+🚀 Building Ideas. Creating Innovation. Pushing Boundaries.
 
 </div>---
 
 👨‍💻 About Me
 
-Hi! I'm NH Developer ("NH007RED"), an independent developer passionate about turning creative ideas into practical digital experiences.
+Hi! I'm NH Developer, an independent developer who loves transforming creative ideas into real applications.
 
-I enjoy building applications, experimenting with new technologies, and creating premium user interfaces that combine modern design with useful functionality.
+I focus on building useful Android apps, modern web projects, developer tools, and premium user interfaces.
 
-- 🚀 Building: Android apps, web applications, and developer tools.
-- 🎨 Designing: Modern, responsive, mobile-first interfaces.
-- 🔥 Exploring: Firebase-powered applications and realtime data.
-- 💡 Learning: New technologies, development techniques, and creative solutions.
-- 🎯 Mission: Turn ambitious ideas into functional, user-friendly projects.
+- 📱 Android Development — Useful mobile applications and offline tools.
+- 🌐 Web Development — Responsive websites and interactive web apps.
+- 🔥 Firebase Projects — Realtime Database-powered applications.
+- 🎨 UI/UX Design — Modern layouts, animations, and premium interfaces.
+- 💡 Creative Development — Turning ambitious ideas into working projects.
 
 «I don't wait for ideas to become reality. I learn, build, experiment, and make them happen.»
 
-Small beginnings. Big ambitions. Unlimited possibilities.
-
 ⚡ What I Build
 
-<table>
-<tr>
-<td width="50%" valign="top">📱 Android Development
+🚀 Development| ✨ Focus
+📱 Android Apps| Modern mobile experiences
+🌐 Web Applications| Responsive and interactive projects
+🔥 Firebase Tools| Realtime data and connected apps
+🎨 UI/UX Design| Premium interfaces and animations
+🛠️ Developer Tools| Useful solutions for creators
 
-Creating useful mobile applications with modern UI, smooth navigation, and practical features.
+🧰 Tech Stack
 
-</td>
-<td width="50%" valign="top">🌐 Web Development
+Web Technologies
 
-Building responsive websites, interactive web applications, and lightweight developer tools.
+"HTML5" (https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
+"CSS3" (https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
+"JavaScript" (https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
 
-</td>
-</tr>
-<tr>
-<td width="50%" valign="top">🔥 Firebase Projects
+Android Development
 
-Working with Realtime Database and dynamic applications that connect users and content.
+"Android Studio" (https://img.shields.io/badge/Android_Studio-3DDC84?style=for-the-badge&logo=androidstudio&logoColor=white)
+"Kotlin" (https://img.shields.io/badge/Kotlin-7F52FF?style=for-the-badge&logo=kotlin&logoColor=white)
 
-</td>
-<td width="50%" valign="top">🎨 UI/UX Design
+Backend & Tools
 
-Exploring premium interfaces, Material Design principles, animations, and thoughtful layouts.
+"Firebase" (https://img.shields.io/badge/Firebase-FFCA28?style=for-the-badge&logo=firebase&logoColor=black)
+"Git" (https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+"GitHub" (https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
+"VS Code" (https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=white)
 
-</td>
-</tr>
-</table>🧰 Tech Stack
+📊 GitHub Statistics
 
-<div align="center">Web Technologies
+"GitHub Stats" (https://github-readme-stats.vercel.app/api?username=NH007RED&show_icons=true&theme=tokyonight&hide_border=true&bg_color=050816&title_color=38BDF8&icon_color=8B5CF6&text_color=E2E8F0)
 
-<img src="https://skillicons.dev/icons?i=html,css,js&theme=dark" alt="HTML CSS JavaScript" />App Development
+"Top Languages" (https://github-readme-stats.vercel.app/api/top-langs/?username=NH007RED&layout=compact&theme=tokyonight&hide_border=true&bg_color=050816&title_color=38BDF8&text_color=E2E8F0)
 
-<img src="https://skillicons.dev/icons?i=androidstudio,kotlin&theme=dark" alt="Android Studio and Kotlin" />Backend & Developer Tools
+"GitHub Streak" (https://github-readme-streak-stats.herokuapp.com/?user=NH007RED&theme=tokyonight&hide_border=true&background=050816&ring=8B5CF6&fire=38BDF8&currStreakLabel=38BDF8)
 
-<img src="https://skillicons.dev/icons?i=firebase,git,github,vscode&theme=dark" alt="Firebase Git GitHub VS Code" /></div>📊 GitHub Statistics
+🐍 Contribution Animation
 
-<div align="center"><img height="170" src="https://github-readme-stats.vercel.app/api?username=NH007RED&show_icons=true&theme=tokyonight&hide_border=true&bg_color=050816&title_color=38BDF8&icon_color=8B5CF6&text_color=E2E8F0&rank_icon=github" alt="GitHub statistics" /><img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=NH007RED&layout=compact&theme=tokyonight&hide_border=true&bg_color=050816&title_color=38BDF8&text_color=E2E8F0" alt="Most used languages" /><br/><br/>
+"Contribution Snake" (https://raw.githubusercontent.com/NH007RED/NH007RED/output/github-contribution-grid-snake.svg)
 
-<img width="95%" src="https://github-readme-streak-stats.herokuapp.com/?user=NH007RED&theme=tokyonight&hide_border=true&background=050816&ring=8B5CF6&fire=38BDF8&currStreakLabel=38BDF8" alt="GitHub contribution streak" /></div>🚀 Explore My Projects
+The snake animation appears after you configure the GitHub Actions workflow to generate its SVG.
 
-Discover my latest repositories, experiments, and development projects.
+🚀 Explore My Projects
 
-<div align="center">""All Repositories" (https://img.shields.io/badge/🚀_All_Repositories-Explore_Now-7C3AED?style=for-the-badge)" (https://github.com/NH007RED?tab=repositories)
+Discover my applications, experiments, and latest development projects.
 
-""Recent Activity" (https://img.shields.io/badge/⚡_Recent_Activity-View_GitHub-0EA5E9?style=for-the-badge)" (https://github.com/NH007RED?tab=overview)
+""All Repositories" (https://img.shields.io/badge/🚀_Explore_Repositories-7C3AED?style=for-the-badge&logo=github&logoColor=white)" (https://github.com/NH007RED?tab=repositories)
 
-</div>🌟 Project Interests
-
-- 📱 Android applications and offline tools
-- 🌐 Modern HTML, CSS, and JavaScript projects
-- 🔥 Firebase-powered web applications
-- 🛠️ Creative tools for developers and creators
-- 🎨 Premium UI concepts and application design
-
-🐍 Contribution Journey
-
-<div align="center"><img src="https://raw.githubusercontent.com/NH007RED/NH007RED/output/github-contribution-grid-snake.svg" alt="GitHub contribution animation" width="100%" /></div>The contribution animation requires a GitHub Actions workflow to generate and publish the SVG.
+""Recent Activity" (https://img.shields.io/badge/⚡_Recent_Activity-0EA5E9?style=for-the-badge&logo=github&logoColor=white)" (https://github.com/NH007RED?tab=overview)
 
 🌌 My Philosophy
 
-<div align="center">💡| ⚡| 🚀
-Ideas| Creativity| Innovation
-Think beyond limits| Turn ideas into code| Build the impossible
+<div align="center">💡 Ideas Into Innovation
 
-<br/>"Dream Big. Learn Every Day. Build Without Limits."
+⚡ Creativity Into Code
 
-I believe that great things begin with curiosity, grow through learning, and become reality through consistent effort.
+🚀 Challenges Into Opportunities
 
-</div>🤝 Connect With Me
-
-<div align="center">""GitHub Profile" (https://img.shields.io/badge/GitHub-Follow_Me-181717?style=for-the-badge&logo=github)" (https://github.com/NH007RED)
-
-""Explore Projects" (https://img.shields.io/badge/My_Repositories-Explore_Projects-0EA5E9?style=for-the-badge&logo=github)" (https://github.com/NH007RED?tab=repositories)
-
-<br/>Have an idea? Let's build something amazing. 🚀
+Dream Big. Learn Every Day. Build Without Limits.
 
 </div>---
 
-<div align="center"><img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:7C3AED,50:172554,100:050816&height=130&section=footer&text=NH%20Developer&fontSize=30&fontColor=FFFFFF&animation=fadeIn" alt="NH Developer footer banner" />Thanks for visiting my profile! ❤️
+🤝 Connect With Me
+
+<div align="center">""GitHub" (https://img.shields.io/badge/FOLLOW_ON_GITHUB-181717?style=for-the-badge&logo=github&logoColor=white)" (https://github.com/NH007RED)
+
+Have an idea? Let's build something amazing! 🚀
+
+"Profile Views" (https://komarev.com/ghpvc/?username=NH007RED&style=for-the-badge&color=7C3AED&label=PROFILE+VIEWS)
+
+</div>"Footer" (https://capsule-render.vercel.app/api?type=waving&color=0:7C3AED,50:172554,100:050816&height=120&section=footer&text=NH%20Developer&fontSize=30&fontColor=FFFFFF&animation=fadeIn)
+
+<div align="center">❤️ Thanks for visiting my profile!
 
 Small Developer. Unlimited Vision. Endless Possibilities.
 
